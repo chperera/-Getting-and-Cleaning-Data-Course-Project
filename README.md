@@ -2,7 +2,7 @@
 This repository is a submission of Chamila Perera for Getting and Cleaning Data course project. This shows the instructions on how to run analysis on Human Activity recognition dataset.
 
 ### Dataset
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+[Recognition of human activity using smart phones.](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones/)
 
 ### Files
 CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data

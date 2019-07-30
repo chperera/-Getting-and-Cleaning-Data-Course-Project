@@ -1,7 +1,6 @@
 ### The run_analysis.R script performs the data preparation according to the 5 steps as described in the course project.
 
-1) Download the dataset
-Downloaded the dataset and extracted in to folder called UCI HAR Dataset
+1) Downloaded the dataset and extracted in to folder called UCI HAR Dataset
 
 2) Assign each data to variables
 - Features <- features.txt : 561 rows, 2 columns 

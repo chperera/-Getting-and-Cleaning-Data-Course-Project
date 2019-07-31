@@ -4,7 +4,7 @@
 
 2) Assign each data to variables
 - Features <- features.txt : 561 rows, 2 columns 
-<br /> The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+<br /> The features are selected from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 - Activities <- activity_labels.txt : 6 rows, 2 columns 
 <br /> List of activities performed when the corresponding measurements were taken and its codes (labels)
 - subject_test <- test/subject_test.txt : 2947 rows, 1 column 

@@ -33,13 +33,13 @@
 <br /> Entire numbers in code column of the TidyDataSet1 replaced with corresponding activity taken from second column of the  Activities variable.
 
 6) Appropriately labels the data set with descriptive variable names.
-<br /> code column in TidyDataSet1 renamed into activities.
-<br /> *Acc in column’s name replaced by Accelerometer.
-<br /> Gyro in column’s name replaced by Gyroscope.
-<br /> BodyBody in column’s name replaced by Body.
-<br /> Mag in column’s name replaced by Magnitude.
-<br /> All column’s name start with character f are replaced by Frequency.
-<br /> All the column’s name start with character t replaced by Time*
+<br /> (i) code column in TidyDataSet1 renamed into activities.
+<br /> (ii) *Acc in column’s name replaced by Accelerometer.
+<br /> (iii) Gyro in column’s name replaced by Gyroscope.
+<br /> (iv) BodyBody in column’s name replaced by Body.
+<br /> (v) Mag in column’s name replaced by Magnitude.
+<br /> (vi) All column’s name start with character f are replaced by Frequency.
+<br /> (vii) All the column’s name start with character t replaced by Time*
 
 7) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 <br />TidyDataSet2 = sumarization of TidyDataSet1 by taking the means of each variable for each activity and each subject, after groupped by subject and activity. (180 rows, 88 columns) 
